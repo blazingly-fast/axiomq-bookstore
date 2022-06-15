@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/blazingly-fast/go-bookstore/pkg/routes"
+	"github.com/blazingly-fast/axiomq-bookstore/pkg/routes"
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	"log"
